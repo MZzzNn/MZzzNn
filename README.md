@@ -1,4 +1,4 @@
-<h1> Welcome to my github!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
+<h1> Welcome to my github!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30"></h1>
 <p align="center">
 <b>I'm Mazen Mohamed</b>, Software engineer passionate about Mobile Programming and writing clean code and building well architected mobile applications. Recently I've started contributing to opensource projects.
 </p>
@@ -6,7 +6,7 @@
 <br>
 <br/>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" width="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Talking about Personal Stuffs:
 
