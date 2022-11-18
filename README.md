@@ -69,17 +69,17 @@
 <br/>
 
 <a href="https://github.com/mazen-mo7amed">
-  <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-mo7amed&theme=dracula">
+  <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZzzNn&theme=dracula">
 </a>
 
 <a href="https://github.com/mazen-mo7amed">
- <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=mazen-mo7amed&show_icons=true&theme=dracula&line_height=30" alt="mazen-mo7amed's github stats"/>
+ <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=MZzzNn&show_icons=true&theme=dracula&line_height=30" alt="mazen-mo7amed's github stats"/>
 </a>
 
 <br/><br/>
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mazen-mo7amed&repo=mazen-mo7amed&countColorcountColor&countColor=%237B1E7B"/> 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MZzzNn&repo=MZzzNn&countColorcountColor&countColor=%237B1E7B"/> 
 
 
 ## Social media :mailbox_with_no_mail:
