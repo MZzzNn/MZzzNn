@@ -79,8 +79,8 @@
 <br/><br/>
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MZzzNn&repo=MZzzNn&countColorcountColor&countColor=%237B1E7B"/> 
-
+<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MZzzNn&repo=MZzzNn&countColorcountColor&countColor=%237B1E7B"/>  -->
+<img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
 
 ## Social media :mailbox_with_no_mail:
 
