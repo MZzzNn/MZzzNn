@@ -68,11 +68,11 @@
 
 <br/>
 
-<a href="https://github.com/mazen-mo7amed">
+<a href="https://github.com/MZzzNn">
   <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZzzNn&theme=github_dark">
 </a>
 <!-- dracula -->
-<a href="https://github.com/mazen-mo7amed">
+<a href="https://github.com/MZzzNn">
  <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=MZzzNn&show_icons=true&theme=github_dark&line_height=30" alt="mazen-mo7amed's github stats"/>
 </a>
 
