@@ -69,7 +69,7 @@
 <br/>
 
 <a href="https://github.com/MZzzNn">
-  <img align="center" height="250px" width="265px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MZzzNn&show_icons=true&theme=github_dark">
+  <img align="center" height="250px" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MZzzNn&show_icons=true&theme=github_dark">
 </a>
 <!-- dracula -->
 <a href="https://github.com/MZzzNn">
