@@ -67,13 +67,17 @@
 ## Github Statistics 📈  
 <br/>
 
+<div style="width: 100%;" >
 <a href="https://github.com/MZzzNn">
-  <img align="center" height="250px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MZzzNn&show_icons=true&theme=github_dark">
+  <img align="center" height="250px" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MZzzNn&show_icons=true&theme=github_dark">
 </a>
 <!-- dracula -->
 <a href="https://github.com/MZzzNn">
- <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=MZzzNn&show_icons=true&theme=github_dark" alt="mazen-mo7amed's github stats"/>
+ <img align="center" height="250px" width="70%" src="https://github-readme-stats.vercel.app/api?username=MZzzNn&show_icons=true&theme=github_dark" alt="mazen-mo7amed's github stats"/>
 </a>
+
+</div>
+
 
 <br/><br/>
 
