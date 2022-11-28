@@ -65,7 +65,6 @@
 <br/>
 
 ## Github Statistics 📈  
-
 <br/>
 
 <a href="https://github.com/MZzzNn">
@@ -78,10 +77,22 @@
 
 <br/><br/>
 
+<!-- <br/>
 
-<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MZzzNn&repo=MZzzNn&countColorcountColor&countColor=%237B1E7B"/>  -->
+<a href="https://github.com/MZzzNn">
+  <img align="center" height="250px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MZzzNn&show_icons=true&theme=github_dark">
+</a>
+
+<a href="https://github.com/MZzzNn">
+ <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=MZzzNn&show_icons=true&theme=github_dark" alt="mazen-mo7amed's github stats"/>
+</a>
+
+<br/><br/>
+
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MZzzNn&repo=MZzzNn&countColorcountColor&countColor=%237B1E7B"/> 
 <img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
-
+ -->
 ## Social media :mailbox_with_no_mail:
 
 
