@@ -36,6 +36,12 @@
 </p>
 
 
+
+![snake gif](https://github.com/mzzznn/mzzznn/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+
 <!-- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> -->
 <!-- ![c#](https://img.shields.io/badge/-c%23-611e73?style=flat-square&logo=c#&logoColor=ffffff)
 ![dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
@@ -62,7 +68,7 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
  -->
 
-<br/>
+
 
 ## Github Statistics 📈  
 <br/>
@@ -79,25 +85,16 @@
 </div>
 
 
-<br/><br/>
-
-<!-- <br/>
-
-<a href="https://github.com/MZzzNn">
-  <img align="center" height="250px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MZzzNn&show_icons=true&theme=github_dark">
-</a>
-
-<a href="https://github.com/MZzzNn">
- <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=MZzzNn&show_icons=true&theme=github_dark" alt="mazen-mo7amed's github stats"/>
-</a>
 
 <br/><br/>
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MZzzNn&repo=MZzzNn&countColorcountColor&countColor=%237B1E7B"/> 
-<img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
- -->
+
+<div>
+ <img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
+
 ## Social media :mailbox_with_no_mail:
+</div>
 
 
 
@@ -128,4 +125,4 @@
   <img src="https://profile-counter.glitch.me/mazen-mo7amed/count.svg" />
 </p>
 -->
-![snake gif](https://github.com/mzzznn/mzzznn/blob/output/github-contribution-grid-snake.svg)
+
