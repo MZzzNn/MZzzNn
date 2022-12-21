@@ -128,4 +128,4 @@
   <img src="https://profile-counter.glitch.me/mazen-mo7amed/count.svg" />
 </p>
 -->
-
+![snake gif](https://github.com/mzzznn/mzzznn/blob/output/github-contribution-grid-snake.svg)
