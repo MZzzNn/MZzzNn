@@ -97,10 +97,10 @@
 </div>
 
 
-[![my email: mazenn77@gmail.com](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/email_me.svg "mazenn77@gmail.com")](mailto:anas.elgarhy.dev@gmail.com)
-[![Twitter handel: @MZzzNn_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/twitter.svg "@MZzzNn_")](https://twitter.com/anas_elgarhy)
-[![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@MZzzNn")](https://linkedin.com/in/anas-elgarhy)
-[![My instagram handel: @MZzzNn_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@MZzzNn_")](https://instagram.com/anas_elgarhy)
+[![my email: mazenn77@gmail.com](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/email_me.svg "mazenn77@gmail.com")](mailto:mazenn77@gmail.com)
+[![Twitter handel: @MZzzNn_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/twitter.svg "@MZzzNn_")](https://twitter.com/MZzzNn_)
+[![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@MZzzNn")](https://linkedin.com/in/MZzzNn)
+[![My instagram handel: @MZzzNn_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@MZzzNn_")](https://instagram.com/MZzzNn_)
 
 
 
