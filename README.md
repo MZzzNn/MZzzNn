@@ -91,7 +91,7 @@
 
 
 <div>
- <img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
+ <img align="right" style="padding-top:8px" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
 
 ## Social media :mailbox_with_no_mail:
 </div>
