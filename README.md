@@ -91,21 +91,27 @@
 
 
 <div>
- <img align="right" style="padding-top:8px" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
+ <img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
 
 ## Social media :mailbox_with_no_mail:
 </div>
 
 
+[![my email: mazenn77@gmail.com](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/email_me.svg "mazenn77@gmail.com")](mailto:anas.elgarhy.dev@gmail.com)
+[![Twitter handel: @MZzzNn_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/twitter.svg "@MZzzNn_")](https://twitter.com/anas_elgarhy)
+[![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@MZzzNn")](https://linkedin.com/in/anas-elgarhy)
+[![My instagram handel: @MZzzNn_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@MZzzNn_")](https://instagram.com/anas_elgarhy)
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MZzznn)
+
+
+<!-- [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MZzznn)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazenn770@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-mohamed0/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MaZenn.mo7amed)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mzzznn_/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MZzzNn_)
 
-
+ -->
 
 <!--
 <i>Follow me:</i><br>
