@@ -126,11 +126,19 @@ Other              37 hrs 55 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C151%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-865-blue)
+<p align="center">
+    <a href="https://wakatime.com/@MZzzNn">
+        <img alt="Total time of coding" src="https://wakatime.com/badge/user/27da1c90-b8bf-4c99-99d0-1757cf327276.svg">
+    </a>
+    <a href="https://github.com/MZzzNn/MZzzNn">
+        <img alt="Last update time" src="https://img.shields.io/github/last-commit/MZzzNn/MZzzNn?label=profile%20updated&style=flat-square">
+    </a>
+    <a href="https://wakatime.com/@MZzzNn">
+        <img alt="Lines of code" src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue">
+    </a>
+</p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data**
 
