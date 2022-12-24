@@ -84,6 +84,15 @@ hobbies: ["Problem-Solving", "Video Games", "Competitive Gaming", "Movies", "Dra
 
 <!--START_SECTION:waka-->
 
+<p align="center">
+    <a href="https://github.com/MZzzNn/MZzzNn">
+        <img alt="Last update time" src="https://img.shields.io/github/last-commit/MZzzNn/MZzzNn?label=profile%20updated&style=flat-square">
+    </a>
+    <a href="https://wakatime.com/@MZzzNn">
+        <img alt="Total time of coding" src="https://wakatime.com/badge/user/27da1c90-b8bf-4c99-99d0-1757cf327276.svg">
+    </a>
+</p>
+
 ```text
 From: 01 June 2022 - To: 23 December 2022
 
