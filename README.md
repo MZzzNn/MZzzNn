@@ -146,7 +146,6 @@ Other              37 hrs 55 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:activity-->
 
 </details>
-<br/>
 
 
 [//]: # (Todo:: Snake)
