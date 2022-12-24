@@ -131,7 +131,7 @@ Other              37 hrs 55 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <!-- GitHub Readme Streak Stats - https://github.com/mzzznn/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/mzzznn/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mzzznn's streak" src="https://streak-stats.demolab.com/?user=mzzznn&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mzzznn's streak" src="https://streak-stats.demolab.com?user=MZzzNn&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
