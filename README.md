@@ -69,10 +69,10 @@ hobbies: ["Problem-Solving", "Video Games", "Competitive Gaming", "Movies", "Dra
 
 <a href="https://www.facebook.com/MaZenn.mo7amed" target="blank"><img align="center" src="assets/social_logos/facebook.svg" alt="MaZenn.mo7amed" height="50" width="50" /></a>
 <a href="mailto:mazenn770@gmail.com" target="blank"><img align="center" src="assets/social_logos/mail.svg" alt="mazenn770@gmail.com" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/mazen-mohamed-7a8b1b1b3/" target="blank"><img align="center" src="assets/social_logos/linkedin.svg" alt="@MZzzNn" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/MZzzNn" target="blank"><img align="center" src="assets/social_logos/linkedin.svg" alt="@MZzzNn" height="50" width="50" /></a>
 <a href="https://t.me/MZzznn" target="blank"><img align="center" src="assets/social_logos/telegram.svg" alt="@MZzznn" height="50" width="50" /></a>
-<a href="https://twitter.com/MaZennne" target="blank"><img align="center" src="assets/social_logos/twitter.svg" alt="@MZzzNn" height="50" width="50" /></a>
-<a href="https://www.instagram.com/mazen_mohamed_7a8b1b1b3/" target="blank"><img align="center" src="assets/social_logos/instagram.svg" alt="@MZzzNn_" height="50" width="50" /></a>
+<a href="https://twitter.com/MZzzNn" target="blank"><img align="center" src="assets/social_logos/twitter.svg" alt="@MZzzNn" height="50" width="50" /></a>
+<a href="https://www.instagram.com/MZzzNn_" target="blank"><img align="center" src="assets/social_logos/instagram.svg" alt="@MZzzNn_" height="50" width="50" /></a>
 
 </p>
 <br/>
