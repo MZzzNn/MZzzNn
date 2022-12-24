@@ -1,24 +1,47 @@
 [//]: # (Todo::  Welcome and introduction)
-<h1> Hello, folks!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30" alt="welcome"></h1>
+<h1>Hello, folks!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30" alt="welcome"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=80&lines=I'm+Mazen+Mohamed%2C+Software+engineer+passionate+about+Mobile+Programming+and+writing+clean+code+and+building;well+architected+mobile+applications.+Recently+I've+started+contributing+to+opensource+projects." alt="Typing SVG" /></a></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=80&lines=I'm+Mazen+Mohamed%2C+Software+engineer+passionate+about+Mobile+Programming+and+writing+clean+code+and+building;well+architected+mobile+applications.+Recently+I've+started+contributing+to+opensource+projects." alt="Typing SVG" /></p>
 <br/>
 
 
 
-[//]: # (Todo::  Welcome and introduction)
+[//]: # (Todo:: Talking about Personal)
 
-<img align="right" alt="GIF" height="160px" width="160px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/banner.gif" />
+<h2>A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+
+<div>
+<img align="right" style="margin-left: 20px;" alt="GIF" height="160px" width="160px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/banner.gif" />
+
+```yaml
+name: Mazen Mohamed
+from: Egypt
+job: Flutter Developer 
+education: ["Pre-Masters at Mansoura University", "BSc. of Computer Science"]
+company: IX Solutions at Mansoura, Egypt && Liefermama at Germany
+code: ["Dart", "Python", "C#", "Javascript", "Java", "PHP"],
+askMeAbout: ["app dev", "web dev"],
+past experiences:
+  - ["Flutter Developer", "Liefermama ", "Germany", "2022"]
+  - ["Flutter Developer", "IX-Solution ", "Egypt", "2022"]
+  - ["Flutter Developer", "Freelance", "Online Projects", "2021"]
+  - ["Flutter Developer", "Delta soft ", "Egypt", "2020-2021"]
+technical_background: {
+  mobileApp: {  cross-platform: ["Dart", "Flutter"] },
+  backEnd: { PHP: ["Laravel"] },
+  frontEnd: ["Html", "Css", "JS" , "Bootstrap"],
+  databases: ["Firebase", "MongoDB", "MySql", "Sqlite"],
+  misc: ["Socket.IO"]
+}
+fields_of_interests: ["Mobile Programming", "ML", "AI", "Path Planning"]
+currently_learning: ["Android native", "IOS native"]
+will_learn: ["IoT", "React native"]
+hobbies: ["Problem-Solving", "Video Games", "Competitive Gaming", "Movies", "Drawing"]
+```
+</div>
 
 
-## Talking about Personal Stuffs:
-
-- 🔭 I’m currently studying Bioinformatics at FCIS MU.
-- 👨‍💻 I’m currently working on Flutter development.
-- 📚 I’m currently learning native apps for Android and iOS .
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!
-- 🎨 Portfolio: 
+[//]: # (Todo:: Languages and Tools)
 
 <br>
 
@@ -41,7 +64,7 @@
 <br/>
 
 
-[//]: # (Todo:: Social media)
+[//]: # (Todo:: Social media links)
 
 <div>
  <img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blue&countColor=%237B1E7B&style=flat" alt="counter"/>
@@ -176,6 +199,20 @@ Other              37 hrs 55 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 
+[//]: # (## Talking about Personal Stuffs:)
+
+[//]: # ()
+[//]: # (- 🔭 I’m currently studying Bioinformatics at FCIS MU.)
+
+[//]: # (- 👨‍💻 I’m currently working on Flutter development.)
+
+[//]: # (- 📚 I’m currently learning native apps for Android and iOS .)
+
+[//]: # (- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.)
+
+[//]: # (- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!)
+
+[//]: # (- 🎨 Portfolio: )
 
 <!-- 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
