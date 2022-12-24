@@ -90,10 +90,16 @@ hobbies: ["Problem-Solving", "Video Games", "Competitive Gaming", "Movies", "Dra
 <!--START_SECTION:waka-->
 
 ```text
-Dart   6 hrs 12 mins   ███████████████████████▓░   94.70 %
-YAML   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-XML    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Text   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+From: 01 June 2022 - To: 23 December 2022
+
+Total Time: 588 hrs 33 mins
+
+Dart                          556 hrs 53 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.62 %
+YAML                          16 hrs 40 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.83 %
+XML                           6 hrs 59 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.19 %
+Groovy                        1 hr 54 mins    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.32 %
+Text                          1 hr 6 mins     ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.19 %
+Gradle                        1 hr 2 mins     ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.18 %
 ```
 
 <!--END_SECTION:waka-->
