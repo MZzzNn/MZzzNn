@@ -1,12 +1,15 @@
-<h1> Welcome to my github!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30"></h1>
+[//]: # (Todo::  Welcome and introduction)
+<h1> Hello, folks!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30" alt="welcome"></h1>
 <p align="center">
-<b>I'm Mazen Mohamed</b>, Software engineer passionate about Mobile Programming and writing clean code and building well architected mobile applications. Recently I've started contributing to opensource projects.
-</p>
-
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=80&lines=I'm+Mazen+Mohamed%2C+Software+engineer+passionate+about+Mobile+Programming+and+writing+clean+code+and+building;well+architected+mobile+applications.+Recently+I've+started+contributing+to+opensource+projects." alt="Typing SVG" /></a></p>
 <br/>
 
+
+
+[//]: # (Todo::  Welcome and introduction)
+
 <img align="right" alt="GIF" height="160px" width="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 ## Talking about Personal Stuffs:
 
@@ -27,23 +30,158 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>    
-</a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
-</a> <a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>     
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> </a>
 </p>
 
 
 
-![snake gif](https://github.com/mzzznn/mzzznn/blob/output/github-contribution-grid-snake.svg)
+<br/><br/>
 
+
+
+<div>
+ <img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blue&countColor=%237B1E7B&style=flat" alt="counter"/>
+
+## Social media :mailbox_with_no_mail:
+</div>
+
+<p align="center">
+
+<a href="https://www.facebook.com/MaZenn.mo7amed" target="blank"><img align="center" src="assets/social_logos/facebook.svg" alt="MaZenn.mo7amed" height="50" width="50" /></a>
+<a href="mailto:mazenn770@gmail.com" target="blank"><img align="center" src="assets/social_logos/mail.svg" alt="mazenn770@gmail.com" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mazen-mohamed-7a8b1b1b3/" target="blank"><img align="center" src="assets/social_logos/linkedin.svg" alt="@MZzzNn" height="50" width="50" /></a>
+<a href="https://t.me/MZzznn" target="blank"><img align="center" src="assets/social_logos/telegram.svg" alt="@MZzznn" height="50" width="50" /></a>
+<a href="https://twitter.com/MaZennne" target="blank"><img align="center" src="assets/social_logos/twitter.svg" alt="@MZzzNn" height="50" width="50" /></a>
+<a href="https://www.instagram.com/mazen_mohamed_7a8b1b1b3/" target="blank"><img align="center" src="assets/social_logos/instagram.svg" alt="@MZzzNn_" height="50" width="50" /></a>
+
+</p>
+
+
+
+[//]: # (Todo:: waka time stats)    
+
+<details> 
+  <summary><h2>WakaTime Statistics 🕒</h2></summary>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2020%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data**
+
+> 🏆 1,365 Contributions in the Year 2022
+>
+> 📦 324.7 kB Used in GitHub's Storage
+>
+> 💼 Opted to Hire
+>
+> 📜 38 Public Repositories
+>
+> 🔑 6 Private Repositories
+>
+**I'm a Night 🦉**
+```text
+🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.54% 
+🌆 Daytime    267 commits    ██████████░░░░░░░░░░░░░░░   42.25% 
+🌃 Evening    223 commits    ████████░░░░░░░░░░░░░░░░░   35.28% 
+🌙 Night      107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.93%
+```
+
+
+📊 **This Week I Spent My Time On**
+
+```text
+⌚︎ Time Zone: Asia/Dubai
+💬 Programming Languages: 
+C++                      12 hrs 42 mins      ███████████████░░░░░░░░░░   62.32% 
+Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+C                        1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
+CMake                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.3%
+🐱‍💻 Projects: 
+swarm_mission            12 hrs 44 mins      ███████████████░░░░░░░░░░   62.46% 
+crypto-dca-bot           2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+arrc-library             2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+swarm_simulation         1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+netbox-client-arrc-latest1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
+```
+
+
+Last Updated on 23/12/2022 12:39:33 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 22 December 2022
+Total Time: 873 hrs
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.89 %
+Python             165 hrs 53 mins ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.00 %
+C++                143 hrs 23 mins ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.43 %
+Bash               64 hrs 33 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.40 %
+YAML               40 hrs 12 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.61 %
+Other              37 hrs 55 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.34 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+</details>
+
+[//]: # (Todo:: GitHub Stats and Activity )
+
+<details> 
+  <summary><h2>GitHub Stats and Activity 📈</h2></summary>
+
+<h3>Streak Stats 🔥</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/mzzznn/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/mzzznn/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mzzznn's streak" src="https://streak-stats.demolab.com/?user=mzzznn&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+
+<h3>GitHub Profile Stats 💻</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mzzznn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mzzznn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mzzznn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzzznn&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mzzznn's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=mzzznn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!--END_SECTION:activity-->
+
+</details>
 <br/>
 
 
-<!-- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> -->
-<!-- ![c#](https://img.shields.io/badge/-c%23-611e73?style=flat-square&logo=c#&logoColor=ffffff)
+[//]: # (Todo:: Snake)
+
+## My Snake 🐍
+![snake gif](https://github.com/mzzznn/mzzznn/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+<!-- 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+![c#](https://img.shields.io/badge/-c%23-611e73?style=flat-square&logo=c#&logoColor=ffffff)
 ![dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
 ![Flutter](https://img.shields.io/badge/%20%20-flutter%20-%231FBCFD?style=flat-square&logo=flutter&logoColor=%23ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -67,43 +205,6 @@
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
  -->
-
-
-
-## Github Statistics 📈  
-<br/>
-
-<div style="width: 100%;" >
-<a href="https://github.com/MZzzNn">
-  <img align="center" height="250px" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MZzzNn&show_icons=true&theme=github_dark">
-</a>
-<!-- dracula -->
-<a href="https://github.com/MZzzNn">
- <img align="center" height="250px" width="70%" src="https://github-readme-stats.vercel.app/api?username=MZzzNn&show_icons=true&theme=github_dark" alt="mazen-mo7amed's github stats"/>
-</a>
-
-</div>
-
-
-
-<br/><br/>
-
-
-
-<div>
- <img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blueviolet&countColor=%237B1E7B&style=plastic"/> 
-
-## Social media :mailbox_with_no_mail:
-</div>
-
-
-[![my email: mazenn77@gmail.com](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/email_me.svg "mazenn77@gmail.com")](mailto:mazenn77@gmail.com)
-[![Twitter handel: @MZzzNn_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/twitter.svg "@MZzzNn_")](https://twitter.com/MZzzNn_)
-[![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@MZzzNn")](https://linkedin.com/in/MZzzNn)
-[![My instagram handel: @MZzzNn_](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/instagram.svg "@MZzzNn_")](https://instagram.com/MZzzNn_)
-
-
-
 <!-- [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MZzznn)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazenn770@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazen-mohamed0/)
