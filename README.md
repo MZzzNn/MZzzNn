@@ -8,7 +8,7 @@
 
 [//]: # (Todo::  Welcome and introduction)
 
-<img align="right" alt="GIF" height="160px" width="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" width="160px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/banner.gif" />
 
 
 ## Talking about Personal Stuffs:
@@ -38,11 +38,10 @@
 <a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe_XD" width="40" height="40"/> </a>
 </p>
 
+<br/>
 
 
-<br/><br/>
-
-
+[//]: # (Todo:: Social media)
 
 <div>
  <img align="right" src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=blue&countColor=%237B1E7B&style=flat" alt="counter"/>
@@ -60,8 +59,7 @@
 <a href="https://www.instagram.com/mazen_mohamed_7a8b1b1b3/" target="blank"><img align="center" src="assets/social_logos/instagram.svg" alt="@MZzzNn_" height="50" width="50" /></a>
 
 </p>
-
-
+<br/>
 
 [//]: # (Todo:: waka time stats)    
 
