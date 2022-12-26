@@ -6,6 +6,7 @@ on:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
 
+
 jobs:
   update-readme:
     name: Update this repo's README
@@ -13,12 +14,11 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Updated simple waka stats section"
-          COMMIT_USERNAME: "MZzzNn"
-          COMMIT_EMAIL: "mazenn770@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "MZzzNn"
+          COMMIT_EMAIL: "mazenn770@gmail.com"
           SECTION_NAME: "waka-simple"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
