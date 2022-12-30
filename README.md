@@ -199,6 +199,8 @@ Other                         38 hrs 43 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [//]: # (- 🎨 Portfolio: )
 
 <!-- 
+![Leetcode Stats](https://leetcard.jacoblin.cool/MZzzNn?theme=dark)
+
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 ![c#](https://img.shields.io/badge/-c%23-611e73?style=flat-square&logo=c#&logoColor=ffffff)
 ![dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
