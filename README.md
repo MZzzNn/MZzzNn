@@ -12,7 +12,7 @@
 <img align="right" style="margin-left: 20px;" alt="GIF" height="160px" width="160px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/banner.gif" />
 
 ```yaml
-name: Mazen Mohamed
+name: Mazen Mohamed 
 from: Egypt
 job: Flutter Developer 
 education: ["Pre-Masters at Mansoura University", "BSc. of Computer Science"]
