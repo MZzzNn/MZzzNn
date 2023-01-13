@@ -241,7 +241,7 @@ Other                         119 hrs 37 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 <a href="https://www.instagram.com/mzzznn_" target="_blank"><img height="30px" width="40px" src="https://i.pinimg.com/originals/ea/89/45/ea8945b986e784d57c11ba50839b4f12.gif" alt="Instagram"></a>
 <a href="https://www.facebook.com/mazen" target="_blank"><img height="30px" width="40px" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_400px.gif" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/mazen" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/mazen" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/mazen" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> 
 ---
   <img src="https://profile-counter.glitch.me/mazen-mo7amed/count.svg" />
 
