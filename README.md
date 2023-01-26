@@ -24,7 +24,7 @@ technical_background: {
   backEnd: { PHP: ["Laravel"] },
   frontEnd: ["Html", "Css", "JS" , "Bootstrap"],
   databases: ["Firebase", "MongoDB", "MySql", "Sqlite"],
-  misc: ["Socket.IO"]
+  misc: ["Socket.IO", "TCP","JSON-Server"]
 }
 fields_of_interests: ["Mobile Programming", "ML", "AI", "Path Planning"]
 currently_learning: ["Android native", "IOS native"]
