@@ -107,7 +107,7 @@ Gradle                        1 hr 2 mins     ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
+<!--START_SECTION:waka-simple--> 
 
 ```text
 From: 16 July 2020 - To: 22 December 2022
