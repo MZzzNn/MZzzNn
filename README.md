@@ -27,7 +27,7 @@ technical_background: {
   misc: ["Socket.IO", "TCP","JSON-Server"]
 }
 fields_of_interests: ["Mobile Programming", "ML", "AI", "Path Planning"]
-currently_learning: ["Android native", "IOS native"]
+currently_learning: ["Android native", "IOS native"] 
 will_learn: ["IoT", "React native"]
 hobbies: ["Problem-Solving", "Video Games", "Competitive Gaming", "Movies", "Drawing"]
 ```
