@@ -246,7 +246,7 @@ Other                         262 hrs 16 mins ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀�
   <img src="https://profile-counter.glitch.me/mazen-mo7amed/count.svg" />
 
 <br>
-<p align="center"> 
+<p align="center">  
   <i><b>Profile Visitor Count...</b> </i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
   <img src="https://profile-counter.glitch.me/mazen-mo7amed/count.svg" />
