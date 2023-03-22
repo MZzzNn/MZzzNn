@@ -236,7 +236,7 @@ Other                         371 hrs 26 mins ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀�
  -->
 
 <!--
-<i>Follow me:</i><br>
+<i>Follow me:</i><br> 
 
 <a href="https://www.linkedin.com/in/mazen-mohamed0" target="_blank"><img height="30px" width="40px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mzzznn_" target="_blank"><img height="30px" width="40px" src="https://i.pinimg.com/originals/ea/89/45/ea8945b986e784d57c11ba50839b4f12.gif" alt="Instagram"></a>
