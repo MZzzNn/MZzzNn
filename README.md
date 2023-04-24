@@ -1,4 +1,4 @@
-[//]: # (Todo::  Welcome and introduction)  
+[//]: # (Todo::  Welcome and introduction)
 <h1>Hello, folks!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" height="30" alt="welcome"></h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=80&lines=I'm+Mazen+Mohamed%2C+Software+engineer+passionate+about+Mobile+Programming+and+writing+clean+code+and+building;well+architected+mobile+applications.+Recently+I've+started+contributing+to+opensource+projects." alt="Typing SVG" /></p>
