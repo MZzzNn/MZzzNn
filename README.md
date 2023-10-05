@@ -124,13 +124,13 @@ Other              37 hrs 55 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--START_SECTION:waka-->
 
-```text
-From: 01 June 2022 - To: 06 January 2023
+```rust
+From: 01 June 2022 - To: 04 October 2023
 
-Total Time: 692 hrs 22 mins
+Total Time: 1,071 hrs 48 mins
 
-Dart                          572 hrs 28 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀   82.68 %
-Other                         82 hrs 53 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.97 %
+Dart                          995 hrs 57 mins >>>>>>>>>>>>>>-----------   57.61 %
+Other                         656 hrs 51 mins >>>>>>>>>>---------------   38.00 %
 ```
 
 <!--END_SECTION:waka-->
