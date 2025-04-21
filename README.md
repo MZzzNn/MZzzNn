@@ -125,12 +125,12 @@ Other              37 hrs 55 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 June 2022 - To: 19 April 2025
+From: 01 June 2022 - To: 20 April 2025
 
-Total Time: 2,988 hrs 12 mins
+Total Time: 2,990 hrs 24 mins
 
-Dart                          2,770 hrs 22 mins>>>>>>>>>>>>>>>>>>>------   75.63 %
-Other                         675 hrs 1 min   >>>>>--------------------   18.43 %
+Dart                          2,772 hrs 20 mins>>>>>>>>>>>>>>>>>>>------   75.64 %
+Other                         675 hrs 1 min   >>>>>--------------------   18.42 %
 ```
 
 <!--END_SECTION:waka-->
