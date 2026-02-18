@@ -129,8 +129,8 @@ From: 01 June 2022 - To: 17 February 2026
 
 Total Time: 4,166 hrs 28 mins
 
-Dart                          3,878 hrs 16 mins>>>>>>>>>>>>>>>>>>>>-----   79.18 %
-Other                         731 hrs 17 mins >>>>---------------------   14.93 %
+Dart                          3,878 hrs 16 mins     >>>>>>>>>>>>>>>>>>>>-----   79.18 %
+Other                         731 hrs 17 mins       >>>>---------------------   14.93 %
 ```
 
 <!--END_SECTION:waka-->
