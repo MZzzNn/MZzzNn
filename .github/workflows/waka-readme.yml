@@ -19,7 +19,7 @@ jobs:
 
       - name: Update WakaTime stats in README
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USERNAME: MZzzNn
           TIME_RANGE: last_7_days # all_time needs WakaTime premium
           LANG_COUNT: 10
         run: python3 .github/scripts/waka.py
