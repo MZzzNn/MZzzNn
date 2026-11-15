@@ -15,12 +15,12 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Update WakaTime stats in README
         env:
           WAKATIME_USERNAME: MZzzNn
-          TIME_RANGE: last_7_days # all_time needs WakaTime premium
+          TIME_RANGE: all_time # must match "Display code time publicly" range on wakatime.com/settings/profile
           LANG_COUNT: 10
         run: python3 .github/scripts/waka.py
 
