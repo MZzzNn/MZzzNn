@@ -6,6 +6,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
+from datetime import datetime
 
 RANGE = os.environ.get("TIME_RANGE", "last_7_days")
 LANG_COUNT = int(os.environ.get("LANG_COUNT", "10"))
@@ -63,7 +64,7 @@ if not data.get("languages"):
 
 
 def bar(percent: float) -> str:
-    filled = percent / 100 * BAR_LEN
+    filled = max(0.0, min(percent, 100.0)) / 100 * BAR_LEN
     full = int(filled)
     out = BLOCKS[-1] * full
     if full < BAR_LEN:
@@ -72,16 +73,25 @@ def bar(percent: float) -> str:
     return out
 
 
-start = data["start"][:10]
-end = data["end"][:10]
-lines = [
-    f"From: {start} - To: {end}",
-    "",
-    f"Total Time: {data.get('human_readable_total_including_other_language') or data.get('human_readable_total') or 'hidden'}",
-    "",
-]
-for lang in data.get("languages", [])[:LANG_COUNT]:
-    lines.append(f"{lang['name']:<30}{lang['text']:<16}{bar(lang['percent'])}   {lang['percent']:05.2f} %")
+def day(value) -> str:
+    """'2022-06-01T00:00:00Z' -> '01 June 2022' (falls back to the raw value)."""
+    try:
+        return datetime.strptime(str(value)[:10], "%Y-%m-%d").strftime("%d %B %Y")
+    except ValueError:
+        return str(value or "?")
+
+
+lines = []
+if data.get("start") and data.get("end"):
+    lines += [f"From: {day(data['start'])} - To: {day(data['end'])}", ""]
+total = data.get("human_readable_total_including_other_language") or data.get("human_readable_total")
+if total:
+    lines += [f"Total Time: {total}", ""]
+for lang in data["languages"][:LANG_COUNT]:
+    percent = float(lang.get("percent") or 0)
+    lines.append(
+        f"{str(lang.get('name', '?')):<30}{str(lang.get('text', '')):<16}{bar(percent)}   {percent:05.2f} %"
+    )
 
 block = "<!--START_SECTION:waka-->\n\n```txt\n" + "\n".join(lines) + "\n```\n\n<!--END_SECTION:waka-->"
 
