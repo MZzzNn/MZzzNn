@@ -1,4 +1,4 @@
-"""Fetch WakaTime stats and write them into README.md between the waka markers."""
+"""Fetch public WakaTime stats and write them into README.md between the waka markers."""
 import base64
 import json
 import os
@@ -13,14 +13,13 @@ README = os.environ.get("README_PATH", "README.md")
 BLOCKS = "⣀⣄⣤⣦⣶⣷⣿"
 BAR_LEN = 25
 
-key = os.environ.get("WAKATIME_API_KEY", "").strip()
-if not key:
-    sys.exit("WAKATIME_API_KEY secret is empty")
+USERNAME = os.environ.get("WAKATIME_USERNAME", "MZzzNn")
 
+# WakaTime no longer accepts API keys outside editor plugins, so read the
+# public stats instead (needs "Display languages publicly" in WakaTime settings).
 req = urllib.request.Request(
-    f"https://wakatime.com/api/v1/users/current/stats/{RANGE}",
+    f"https://wakatime.com/api/v1/users/{USERNAME}/stats/{RANGE}",
     headers={
-        "Authorization": "Basic " + base64.b64encode(key.encode()).decode(),
         "User-Agent": "MZzzNn-profile-readme/1.0 (GitHub Actions)",
         "Accept": "application/json",
     },
@@ -30,6 +29,12 @@ try:
         data = json.load(resp)["data"]
 except urllib.error.HTTPError as e:
     sys.exit(f"WakaTime API error {e.code} {e.reason}: {e.read().decode(errors='replace')[:500]}")
+
+if not data.get("languages"):
+    sys.exit(
+        "WakaTime returned no languages. Turn on 'Display languages publicly' at "
+        "https://wakatime.com/settings/profile (status: " + str(data.get("status")) + ")"
+    )
 
 
 def bar(percent: float) -> str:
@@ -47,7 +52,7 @@ end = data["end"][:10]
 lines = [
     f"From: {start} - To: {end}",
     "",
-    f"Total Time: {data.get('human_readable_total_including_other_language') or data.get('human_readable_total')}",
+    f"Total Time: {data.get('human_readable_total_including_other_language') or data.get('human_readable_total') or 'hidden'}",
     "",
 ]
 for lang in data.get("languages", [])[:LANG_COUNT]:
