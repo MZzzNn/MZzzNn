@@ -87,10 +87,12 @@ if data.get("start") and data.get("end"):
 total = data.get("human_readable_total_including_other_language") or data.get("human_readable_total")
 if total:
     lines += [f"Total Time: {total}", ""]
-for lang in data["languages"][:LANG_COUNT]:
+langs = data["languages"][:LANG_COUNT]
+text_width = max(len(str(lang.get("text", ""))) for lang in langs) + 1
+for lang in langs:
     percent = float(lang.get("percent") or 0)
     lines.append(
-        f"{str(lang.get('name', '?')):<30}{str(lang.get('text', '')):<16}{bar(percent)}   {percent:05.2f} %"
+        f"{str(lang.get('name', '?')):<30}{str(lang.get('text', '')):<{text_width}}{bar(percent)}   {percent:05.2f} %"
     )
 
 block = "<!--START_SECTION:waka-->\n\n```txt\n" + "\n".join(lines) + "\n```\n\n<!--END_SECTION:waka-->"
