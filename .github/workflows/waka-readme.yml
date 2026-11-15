@@ -24,7 +24,7 @@ jobs:
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_7_days # optional (all_time needs WakaTime premium)
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
@@ -49,7 +49,7 @@ jobs:
           SHOW_SHORT_INFO: "True"
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
+          TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
