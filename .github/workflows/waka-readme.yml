@@ -30,4 +30,5 @@ jobs:
           git config user.name "GitHubActionBot"
           git config user.email "action-bot@github.com"
           git commit -am "Updated waka-readme graph with new metrics"
+          git pull --rebase
           git push

@@ -1,9 +1,9 @@
 """Fetch public WakaTime stats and write them into README.md between the waka markers."""
-import base64
 import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 
@@ -24,13 +24,38 @@ req = urllib.request.Request(
         "Accept": "application/json",
     },
 )
-try:
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        data = json.load(resp)["data"]
-except urllib.error.HTTPError as e:
-    sys.exit(f"WakaTime API error {e.code} {e.reason}: {e.read().decode(errors='replace')[:500]}")
+
+
+def skip(msg: str) -> None:
+    """Temporary WakaTime problem: keep README as is and don't fail the run."""
+    print(f"::warning::{msg} - README left unchanged, will retry on next schedule")
+    sys.exit(0)
+
+
+data = None
+for attempt in range(3):
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            body = json.load(resp)
+        if resp.status == 202:  # stats still being calculated
+            raise TimeoutError("stats are still being calculated (202)")
+        data = body["data"]
+        break
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode(errors="replace")[:500]
+        if e.code < 500 and e.code != 429:
+            sys.exit(f"WakaTime API error {e.code} {e.reason}: {detail}")
+        err = f"WakaTime API error {e.code} {e.reason}: {detail}"
+    except (urllib.error.URLError, TimeoutError, OSError, ValueError, KeyError) as e:
+        err = f"WakaTime request failed: {e}"
+    print(f"Attempt {attempt + 1} failed: {err}")
+    time.sleep(30)
+else:
+    skip(err)
 
 if not data.get("languages"):
+    if data.get("is_up_to_date") is False:
+        skip("WakaTime stats are still updating")
     sys.exit(
         "WakaTime returned no languages. Turn on 'Display languages publicly' at "
         "https://wakatime.com/settings/profile (status: " + str(data.get("status")) + ")"
