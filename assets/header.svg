@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" role="img" aria-label="Mazen Mohamed - Software Engineer, Flutter Developer, Open-Source Contributor">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#111a2e"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9fd8ff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54c5f8"/><stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.07"/></pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="18"/></clipPath>
+    <clipPath id="c0"><rect x="84" y="150" height="44" width="0">
+      <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;265.2;265.2;0;0" keyTimes="0;0;0.111;0.267;0.311;1"/>
+    </rect></clipPath>
+    <clipPath id="c1"><rect x="84" y="150" height="44" width="0">
+      <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;265.2;265.2;0;0" keyTimes="0;0.333;0.444;0.6;0.644;1"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="84" y="150" height="44" width="0">
+      <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;358.8;358.8;0;0" keyTimes="0;0.667;0.778;0.934;0.978;1"/>
+    </rect></clipPath>
+  </defs>
+  <style>
+    .name{font:700 64px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#name);letter-spacing:-1px}
+    .role{font:500 26px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#54c5f8}
+    .sub{font:400 20px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#9aa7bd}
+    .chip rect{fill:#ffffff;fill-opacity:.06;stroke:#ffffff;stroke-opacity:.16}
+    .chip text{font:600 18px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#dbe7ff}
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <g filter="url(#blur)">
+      <circle cx="960" cy="60" r="130" fill="#54c5f8" opacity=".38">
+        <animate attributeName="cx" dur="14s" repeatCount="indefinite" values="960;860;1010;960"/>
+        <animate attributeName="cy" dur="11s" repeatCount="indefinite" values="60;130;40;60"/>
+      </circle>
+      <circle cx="1080" cy="250" r="120" fill="#7c5cff" opacity=".34">
+        <animate attributeName="cx" dur="16s" repeatCount="indefinite" values="1080;980;1120;1080"/>
+        <animate attributeName="cy" dur="13s" repeatCount="indefinite" values="250;190;270;250"/>
+      </circle>
+      <circle cx="120" cy="320" r="110" fill="#01579b" opacity=".45">
+        <animate attributeName="cx" dur="18s" repeatCount="indefinite" values="120;240;80;120"/>
+      </circle>
+    </g>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <rect x="0" y="296" width="1200" height="4" fill="url(#line)">
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values=".5;1;.5"/>
+    </rect>
+  </g>
+
+  <text x="80" y="118" class="name">Mazen Mohamed</text>
+  <text x="84" y="182" class="role" textLength="265.2" lengthAdjust="spacing" clip-path="url(#c0)">Software Engineer</text>
+  <text x="84" y="182" class="role" textLength="265.2" lengthAdjust="spacing" clip-path="url(#c1)">Flutter Developer</text>
+  <text x="84" y="182" class="role" textLength="358.8" lengthAdjust="spacing" clip-path="url(#c2)">Open-Source Contributor</text>
+  <rect y="156" width="3" height="32" rx="1.5" fill="#54c5f8">
+    <animate attributeName="x" dur="9s" repeatCount="indefinite" values="88;353.2;353.2;88;88;353.2;353.2;88;88;446.8;446.8;88;88" keyTimes="0;0.111;0.267;0.311;0.333;0.444;0.6;0.644;0.667;0.778;0.934;0.978;1"/>
+    <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1"/>
+  </rect>
+  <text x="84" y="236" class="sub">Building clean, well-architected mobile apps  ·  Egypt</text>
+
+  <g class="chip">
+    <g><animateTransform attributeName="transform" type="translate" dur="6s" repeatCount="indefinite" values="0 0;0 -10;0 0"/>
+      <rect x="820" y="70" width="110" height="44" rx="22"/><text x="875" y="98" text-anchor="middle">Flutter</text></g>
+    <g><animateTransform attributeName="transform" type="translate" dur="7s" repeatCount="indefinite" values="0 0;0 12;0 0"/>
+      <rect x="960" y="128" width="90" height="44" rx="22"/><text x="1005" y="156" text-anchor="middle">Dart</text></g>
+    <g><animateTransform attributeName="transform" type="translate" dur="8s" repeatCount="indefinite" values="0 0;0 -8;0 0"/>
+      <rect x="850" y="190" width="124" height="44" rx="22"/><text x="912" y="218" text-anchor="middle">Firebase</text></g>
+  </g>
+</svg>
