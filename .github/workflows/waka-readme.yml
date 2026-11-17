@@ -17,18 +17,18 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Update WakaTime stats in README
+      - name: Rebuild profile cards
         env:
-          WAKATIME_USERNAME: MZzzNn
+          GH_TOKEN: ${{ github.token }}
           TIME_RANGE: all_time # must match "Display code time publicly" range on wakatime.com/settings/profile
-          LANG_COUNT: 10
-        run: python3 .github/scripts/waka.py
+        run: python3 .github/scripts/profile.py
 
       - name: Commit changes
         run: |
-          if git diff --quiet README.md; then echo "Nothing to commit"; exit 0; fi
+          git add assets/generated
+          if git diff --cached --quiet; then echo "Nothing to commit"; exit 0; fi
           git config user.name "GitHubActionBot"
           git config user.email "action-bot@github.com"
-          git commit -am "Updated waka-readme graph with new metrics"
+          git commit -m "Updated profile cards with new metrics"
           git pull --rebase
           git push

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Mazen Mohamed - Software Engineer, Flutter Developer, Open-Source Contributor" width="100%" />
+  <img src="assets/generated/header.svg" alt="Mazen Mohamed - Software Engineer, Mobile and Web Developer, Flutter Package Author, Open-Source Contributor" width="100%" />
 </p>
 
 <p align="center">
@@ -10,62 +10,45 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@MZzzNn"><img src="https://wakatime.com/badge/user/27da1c90-b8bf-4c99-99d0-1757cf327276.svg" alt="Total time coded" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MZzzNne&label=Profile%20views&color=54c5f8&style=flat" alt="Profile views" />
+  <img src="assets/generated/stats.svg" alt="Hours coded, public repositories, stars earned and followers" width="100%" />
 </p>
 
 ## About me
 
-I'm a software engineer focused on mobile. I build Flutter apps with clean code and solid architecture, and I contribute to open-source projects.
+I'm a software engineer who ships products end to end: mobile apps, web dashboards, backends and the CI/CD around them. Most of my work is in Flutter, and I publish open-source packages and guides for the community.
 
-- 📱 **Flutter Developer** building cross-platform apps with Dart
-- 🎓 Pre-Masters at Mansoura University, BSc. in Computer Science
-- 🌱 Currently learning native Android and iOS development
-- 💬 Ask me about app development and web development
-- 🎯 Interests: mobile programming, ML, AI, path planning
-
-## Tech stack
+- 📱 Mobile apps with Flutter and Dart, including maps, BLE, payments, audio/video calls and on-device ML
+- 🌐 Web dashboards and sites with React, TypeScript and Firebase
+- ⚙️ Backends and APIs with Laravel, Node.js and Python
+- 📦 Author of Flutter packages and of a Flutter roadmap starred by the community
+- 🎓 BSc. in Computer Science, Pre-Masters at Mansoura University
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,py,java,php,laravel,js,html,css,bootstrap&perline=11" alt="Dart, Flutter, Firebase, Python, Java, PHP, Laravel, JavaScript, HTML, CSS, Bootstrap" /></a>
-  <br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,postman,idea,xd&perline=11" alt="MySQL, MongoDB, SQLite, Git, Postman, IntelliJ IDEA, Adobe XD" /></a>
+  <img src="assets/generated/stack.svg" alt="Tech stack: Flutter, Dart, React, TypeScript, Laravel, Node.js, Python, Firebase, MySQL, MongoDB, GitHub Actions and more" width="100%" />
 </p>
 
-## Coding activity
+## Featured open source
 
-All-time coding time by language, updated automatically from [WakaTime](https://wakatime.com/@MZzzNn).
+<p align="center">
+  <a href="https://github.com/MZzzNn/FlutterRoadmap"><img src="assets/generated/project-FlutterRoadmap.svg" alt="FlutterRoadmap" width="49%" /></a>
+  <a href="https://github.com/MZzzNn/Flutter_CI-CD_Pipeline"><img src="assets/generated/project-Flutter_CI-CD_Pipeline.svg" alt="Flutter_CI-CD_Pipeline" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MZzzNn/Problem-Solving-Challenge"><img src="assets/generated/project-Problem-Solving-Challenge.svg" alt="Problem-Solving-Challenge" width="49%" /></a>
+  <a href="https://github.com/MZzzNn/magic_dropdown_search"><img src="assets/generated/project-magic_dropdown_search.svg" alt="magic_dropdown_search" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MZzzNn/flutter_machine"><img src="assets/generated/project-flutter_machine.svg" alt="flutter_machine" width="49%" /></a>
+  <a href="https://github.com/MZzzNn/audio_video_flutter"><img src="assets/generated/project-audio_video_flutter.svg" alt="audio_video_flutter" width="49%" /></a>
+</p>
 
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 6,335 hrs 15 mins
-
-Dart                          4,805 hrs 53 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀   75.86 %
-Other                         783 hrs 42 mins ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.37 %
-Markdown                      241 hrs 5 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.81 %
-YAML                          180 hrs 20 mins ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.85 %
-JSON                          53 hrs 19 mins  ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.84 %
-XML                           46 hrs 39 mins  ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.74 %
-Bash                          34 hrs 19 mins  ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.54 %
-Text                          26 hrs 24 mins  ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.42 %
-Python                        19 hrs 22 mins  ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.31 %
-Groovy                        18 hrs 2 mins   ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.28 %
-```
-
-<!--END_SECTION:waka-->
-
-## GitHub stats
+<p align="center">
+  <img src="assets/generated/waka.svg" alt="All-time coding activity by language, tracked by WakaTime" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MZzzNn&theme=transparent&hide_border=true&ring=54C5F8&fire=7C5CFF&currStreakLabel=54C5F8" alt="GitHub streak" height="180" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MZzzNn&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=54C5F8&icon_color=7C5CFF" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZzzNn&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=54C5F8&hide=Jupyter%20Notebook" alt="Top languages" height="170" />
-</p>
-
-## Contributions
 
 <p align="center">
   <picture>
@@ -74,4 +57,4 @@ Groovy                        18 hrs 2 mins   ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </picture>
 </p>
 
-<img src="assets/footer.svg" alt="" width="100%" height="60" />
+<img src="assets/generated/footer.svg" alt="" width="100%" height="60" />
