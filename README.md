@@ -43,10 +43,6 @@ I'm a software engineer who ships products end to end: mobile apps, web dashboar
 </p>
 
 <p align="center">
-  <img src="assets/generated/waka.svg" alt="All-time coding activity by language, tracked by WakaTime" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MZzzNn&theme=transparent&hide_border=true&ring=54C5F8&fire=7C5CFF&currStreakLabel=54C5F8" alt="GitHub streak" height="180" />
 </p>
 

@@ -363,7 +363,6 @@ def build(waka, github, out=OUT):
     }
     tiles = []
     if waka:
-        files["waka.svg"] = waka_svg(waka)
         tile = hours_tile(waka)
         if tile:
             tiles.append(tile)
